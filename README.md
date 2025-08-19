@@ -6,10 +6,6 @@
 
 # 🌋 Interactive Volcano Map
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Volcano_map_example.png" width="400" alt="Volcano Map Example"/>
-</p>
-
 **Visualize volcano locations and world population interactively using Python, Folium, and Pandas.**
 
 ---
